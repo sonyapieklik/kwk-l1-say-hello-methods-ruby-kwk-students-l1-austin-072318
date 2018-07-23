@@ -1,6 +1,6 @@
 # Build your say_hello method here
 
 def say_hello(name)
-  name = String
+  name = " "
   return "Hello" + name + "!"
 end
